@@ -90,3 +90,6 @@ footer > div:last-of-type ul li{
 footer > div:last-of-type ul li a{
     color: #ffffff;
 }
+.tel {
+    padding-top: 20px;
+}
